@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @joaquinbMateos I'm Qa Automation Engineer at Applaudo Studios
-- 👀 I’m interested in software automation testing 
-- 🌱 I’m currently learning Playwright & Cypress
+- 👋 Hi, I’m @joaquinbMateos I'm Qa Automation Engineer.
+- 👀 I’m interested in software automation testing. 
+- 🌱 I’m currently learning Playwright & Cypress.
 
 
 <!---
