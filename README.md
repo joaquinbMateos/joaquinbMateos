@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaquinbMateos I'm Qa Automation Engineer.
 - 👀 I’m interested in software automation testing. 
-- 🌱 I’m currently learning Playwright & Cypress.
+- 🧰 Selenium | Cypress | Playwright | WebdriverIO | Appium 
 
 
 <!---
